@@ -1,0 +1,6 @@
+# 海外多国语言TRX理财区块链投资源码TRX系统源码波场
+
+多语言全新TRX源码，全新UI，二开后全新功能。支持代理独立皮肤<br>更新后全新UI全新功能<br>后台灵活设置产品套餐<br>独立<br>定期<br>菜单功能<br>example.com：主要包括菜单维护、用户管理、权限管理、日志管理<br>example.com：主要包括客户列表、黑名单列表<br>example.com：主要包括轮播列表、广告设置<br>example.com<br>example.com<br>example.com<br>example.com<br>example.com<br>example.com<br>测试前端：example.com/<br>测试账号：88888888  测试密码：123456<br>测试后端：example.com/example.com<br>测试账号：admin  测试密码：123456<br>--------------------------------------------------------------------------------------------------<br>亲爱的各位买家朋友；<br>example.com，使用方必须在国家相关法律法规范围内并经过国家相关部门的授权许可，禁止用于一切非法行为。<br>example.com、实验、研究为目的，禁止用于一切商业运营，本团队不承担使用者在使用过程中的任何违法行为负责。<br>--------------------------------------------------------------------------------------------------<br>注：<br>1、请勿以无法对接或者其他相关问题退款，本店所有技术服务均为收费费用；<br>2、商品设置的安装调试只是单网站运行环境配置，不包含其它任何相关配置；<br>3、如源码存在问题可以购买的技术服务；本店承接数字资产相关服务；<br>4、网站相关接口均为收费配置；<br>5、请不要以任何这样那样的问题说程序无法运行；<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/R1wUw" style="color: red;">https://mega-file.org/R1wUw</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
